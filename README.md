@@ -2,7 +2,9 @@
 This is the second programming project for CS 33211 Operating Systems. 
 
 Author: Garrett Hartley
+
 CS 33211 Operating Systems 
+
 Fall 2023
 
 _Description_
